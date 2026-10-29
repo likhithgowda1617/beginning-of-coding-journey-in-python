@@ -22,13 +22,15 @@
 
 #example for the list operations
 
-
+#1.
 #a=list()
 #for i in range(3):
 #    movie=input("please enter your favourite movie :")
 #    a.append(movie)
 #print(a)
 
+
+#2.
 a=[1,2,3,2,1]
 b=[1,2,3,4,5]
 copy_list=a.copy()
@@ -37,4 +39,5 @@ if copy_list==a:
     print("palindrome")
 else:
     print("not palindrome")
+    
 
