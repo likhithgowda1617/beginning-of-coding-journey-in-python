@@ -1,0 +1,9 @@
+a=2
+b="name"
+c=[23,53,"hello"]
+d=True
+print(a,b,c,d,sep=" ")
+print(a,b,c,d,sep="\n")
+print(a,b,c,d,sep="*")
+print(a,b,c,d,end="\n ")
+print(a,b,c,d,end=" ")
