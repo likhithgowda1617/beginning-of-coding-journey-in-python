@@ -9,4 +9,5 @@ dell={
     }
 }
 print(dell)
+print("\n")
 print(dell["specifications"]["processor"])
